@@ -3,8 +3,8 @@
   "domain": "eu-secure-banking.com",
   "ssl": true,
   "alerts": {
-    "discord_webhook": "https://discord.gg/AAcS23YHVS",
-    "telegram_bot": "@darkphish_alerts_bot"
+    "discord_webhook": "REDACTED",
+    "telegram_bot": "REDACTED"
   },
-  "team_channel": "https://discord.gg/AAcS23YHVS"
+  "team_channel": "REDACTED"
 }
